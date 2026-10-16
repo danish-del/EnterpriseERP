@@ -1,0 +1,988 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Danish\\EnterpriseERP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\implementation\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\implementation\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|solutionrelative:enterpriseerp.domain\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.infrastructure.test\\service\\branchservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|solutionrelative:enterpriseerp.infrastructure.test\\service\\branchservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.infrastructure.test\\service\\departmentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|solutionrelative:enterpriseerp.infrastructure.test\\service\\departmentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\implementation\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\implementation\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.infrastructure.test\\enterpriseerp.infrastructure.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|solutionrelative:enterpriseerp.infrastructure.test\\enterpriseerp.infrastructure.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.infrastructure.test\\enterpriseerp.infrastructure.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{747D0F59-5069-4B25-BC81-9B8A56C28CD5}|EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj|solutionrelative:enterpriseerp.infrastructure.test\\enterpriseerp.infrastructure.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\implementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\implementation\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\service\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\service\\icompanyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\service\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\service\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\service\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\service\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\implementation\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\implementation\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.domain\\model\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|solutionrelative:enterpriseerp.domain\\model\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\department\\updatedepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\department\\updatedepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.domain\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|solutionrelative:enterpriseerp.domain\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\department\\createdepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\department\\createdepartmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\branch\\createbranchvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\branch\\createbranchvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\mapping\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\mapping\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\mapping\\branchprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\mapping\\branchprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\department\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\department\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\department\\responsedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\department\\responsedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\enterpriseerp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\enterpriseerp.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\common\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\common\\pagination\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\common\\pagination\\paginationparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\common\\pagination\\paginationparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\logs\\log-20260926.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\logs\\log-20260926.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\company\\updatecompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\company\\updatecompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\company\\createcompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\company\\createcompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\company\\createcomapnydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\company\\createcomapnydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\branch\\updatebranchvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\branch\\updatebranchvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\branch\\updatebranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\branch\\updatebranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\branch\\createbranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\branch\\createbranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\enterpriseerp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\enterpriseerp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\migrations\\20260925122132_addcompanytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\migrations\\20260925122132_addcompanytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.domain\\model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|solutionrelative:enterpriseerp.domain\\model\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\mapping\\companymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\mapping\\companymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\company\\responsecomapnydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\company\\responsecomapnydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\company\\updatecomapnydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\company\\updatecomapnydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\enterpriseerp.insfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\enterpriseerp.insfrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\dto\\branch\\responsebranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\dto\\branch\\responsebranchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.domain\\enterpriseerp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{850A04CF-79B1-6141-B4D5-960154DC4424}|EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj|solutionrelative:enterpriseerp.domain\\enterpriseerp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\migrations\\20260924230301_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\migrations\\20260924230301_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\migrations\\20261001130040_adddepartmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\migrations\\20261001130040_adddepartmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\migrations\\20261016120225_addfullnametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\migrations\\20261016120225_addfullnametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\migrations\\20261016115233_addaspnettables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\migrations\\20261016115233_addaspnettables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20261016120225_AddFullNameTable.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20261016120225_AddFullNameTable.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Migrations\\20261016120225_AddFullNameTable.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20261016120225_AddFullNameTable.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Migrations\\20261016120225_AddFullNameTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:02:25.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Program.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Program.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Program.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:01:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\appsettings.json",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\appsettings.json",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\appsettings.json",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T22:40:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:08:31.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T14:35:21.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:21:09.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BranchServiceTest.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\Service\\BranchServiceTest.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\Service\\BranchServiceTest.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\Service\\BranchServiceTest.cs",
+              "RelativeToolTip": "EnterpriseERP.Infrastructure.Test\\Service\\BranchServiceTest.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAwwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T14:12:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\JwtService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\JwtService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\JwtService.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Implementation\\JwtService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:11:28.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20261016115233_AddAspNetTables.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20261016115233_AddAspNetTables.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Migrations\\20261016115233_AddAspNetTables.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20261016115233_AddAspNetTables.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Migrations\\20261016115233_AddAspNetTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:52:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Register\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Register\\RegisterDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Register\\RegisterDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Register\\RegisterDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:08:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Login\\LoginDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Login\\LoginDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Login\\LoginDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Login\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:09:40.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentServiceTest.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\Service\\DepartmentServiceTest.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\Service\\DepartmentServiceTest.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\Service\\DepartmentServiceTest.cs",
+              "RelativeToolTip": "EnterpriseERP.Infrastructure.Test\\Service\\DepartmentServiceTest.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIA/wFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T11:32:15.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnterpriseERP.Infrastructure.Test.csproj",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "RelativeToolTip": "EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T14:11:59.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\BranchService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\BranchService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\BranchService.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Implementation\\BranchService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAgwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T13:31:21.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Employee.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Employee.cs",
+              "RelativeToolTip": "EnterpriseERP.Domain\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:46:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnterpriseERP.Infrastructure.Test",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "RelativeToolTip": "EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-06T14:19:04.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:36:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:23:34.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Implementation\\GenericRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:24:48.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T22:33:59.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICompanyService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\ICompanyService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Service\\ICompanyService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\ICompanyService.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Service\\ICompanyService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:21:18.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\IBranchService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Service\\IBranchService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\IBranchService.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Service\\IBranchService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:01:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Service\\IDepartmentService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\IDepartmentService.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Service\\IDepartmentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:12:13.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\DepartmentService.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\DepartmentService.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Implementation\\DepartmentService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:15:15.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Branch.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Branch.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Branch.cs",
+              "RelativeToolTip": "EnterpriseERP.Domain\\Model\\Branch.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:39:57.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Interface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:22:04.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T11:16:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20261001130040_AddDepartmentTable.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20261001130040_AddDepartmentTable.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Migrations\\20261001130040_AddDepartmentTable.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20261001130040_AddDepartmentTable.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Migrations\\20261001130040_AddDepartmentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:00:40.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateDepartmentValidator.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Department\\UpdateDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Department\\UpdateDepartmentValidator.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Department\\UpdateDepartmentValidator.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Validators\\Department\\UpdateDepartmentValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:20:53.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateDepartmentValidator.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Department\\CreateDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Department\\CreateDepartmentValidator.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Department\\CreateDepartmentValidator.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Validators\\Department\\CreateDepartmentValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:14:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateBranchValidator.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Branch\\CreateBranchValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Branch\\CreateBranchValidator.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Branch\\CreateBranchValidator.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Validators\\Branch\\CreateBranchValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:13:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Department.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Department.cs",
+              "RelativeToolTip": "EnterpriseERP.Domain\\Model\\Department.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:43:18.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Mapping\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\DepartmentProfile.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Mapping\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:19:25.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BranchProfile.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\BranchProfile.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Mapping\\BranchProfile.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\BranchProfile.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Mapping\\BranchProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T20:57:35.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Department\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Department\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:06:11.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResponseDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\ResponseDepartmentDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Department\\ResponseDepartmentDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\ResponseDepartmentDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Department\\ResponseDepartmentDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:05:57.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\CreateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Department\\CreateDepartmentDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\CreateDepartmentDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Department\\CreateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T11:05:43.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EnterpriseERP.Webapi.csproj",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-25T13:52:08.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\.dockerignore",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\.dockerignore",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\.dockerignore",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\.dockerignore",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-28T14:57:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PaginationParam.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Common\\Pagination\\PaginationParam.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Common\\Pagination\\PaginationParam.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Common\\Pagination\\PaginationParam.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Common\\Pagination\\PaginationParam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:48:22.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Common\\Pagination\\PagedResult.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Common\\Pagination\\PagedResult.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Common\\Pagination\\PagedResult.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Common\\Pagination\\PagedResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T10:49:31.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "log-20260926.txt",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\logs\\log-20260926.txt",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\logs\\log-20260926.txt",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\logs\\log-20260926.txt",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\logs\\log-20260926.txt",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwHQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-26T14:03:47.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Middleware\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:52:38.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T14:00:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateCompanyValidator.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Company\\UpdateCompanyValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Company\\UpdateCompanyValidator.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Company\\UpdateCompanyValidator.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Validators\\Company\\UpdateCompanyValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:44:14.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateCompanyValidator.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Company\\CreateCompanyValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Company\\CreateCompanyValidator.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Company\\CreateCompanyValidator.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Validators\\Company\\CreateCompanyValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:42:00.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateBranchValidator.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Branch\\UpdateBranchValidator.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Branch\\UpdateBranchValidator.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Branch\\UpdateBranchValidator.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Validators\\Branch\\UpdateBranchValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T13:38:08.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CreateComapnyDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Company\\CreateComapnyDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Company\\CreateComapnyDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Company\\CreateComapnyDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Company\\CreateComapnyDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:22:29.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CreateBranchDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Branch\\CreateBranchDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Branch\\CreateBranchDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Branch\\CreateBranchDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Branch\\CreateBranchDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:10:09.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateBranchDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Branch\\UpdateBranchDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Branch\\UpdateBranchDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Branch\\UpdateBranchDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Branch\\UpdateBranchDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:10:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20260925122132_AddCompanyTable.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20260925122132_AddCompanyTable.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Migrations\\20260925122132_AddCompanyTable.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20260925122132_AddCompanyTable.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Migrations\\20260925122132_AddCompanyTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T12:21:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EnterpriseERP.Application.csproj",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\EnterpriseERP.Application.csproj",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\EnterpriseERP.Application.csproj",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\EnterpriseERP.Application.csproj",
+              "RelativeToolTip": "EnterpriseERP.Application\\EnterpriseERP.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T11:21:31.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Company.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Company.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Company.cs",
+              "RelativeToolTip": "EnterpriseERP.Domain\\Model\\Company.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T10:36:26.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CompanyMapping.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\CompanyMapping.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\Mapping\\CompanyMapping.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\CompanyMapping.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\Mapping\\CompanyMapping.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:36:50.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ResponseComapnyDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Company\\ResponseComapnyDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Company\\ResponseComapnyDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Company\\ResponseComapnyDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Company\\ResponseComapnyDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:22:56.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateComapnyDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Company\\UpdateComapnyDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Company\\UpdateComapnyDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Company\\UpdateComapnyDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Company\\UpdateComapnyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:22:43.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20260924230301_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20260924230301_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Migrations\\20260924230301_InitialCreate.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Migrations\\20260924230301_InitialCreate.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Migrations\\20260924230301_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:03:01.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ResponseBranchDto.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Branch\\ResponseBranchDto.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Branch\\ResponseBranchDto.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Branch\\ResponseBranchDto.cs",
+              "RelativeToolTip": "EnterpriseERP.Application\\DTO\\Branch\\ResponseBranchDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T12:10:49.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EnterpriseERP.Insfrastructure.csproj",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T11:07:26.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EnterpriseERP.Domain.csproj",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj",
+              "RelativeDocumentMoniker": "EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj",
+              "RelativeToolTip": "EnterpriseERP.Domain\\EnterpriseERP.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T10:35:52.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

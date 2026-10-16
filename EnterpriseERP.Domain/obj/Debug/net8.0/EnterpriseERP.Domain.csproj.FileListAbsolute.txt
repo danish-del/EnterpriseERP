@@ -1,0 +1,12 @@
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\bin\Debug\net8.0\EnterpriseERP.Domain.deps.json
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\bin\Debug\net8.0\EnterpriseERP.Domain.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\bin\Debug\net8.0\EnterpriseERP.Domain.pdb
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.AssemblyInfoInputs.cache
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.AssemblyInfo.cs
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.csproj.CoreCompileInputs.cache
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\refint\EnterpriseERP.Domain.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.pdb
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\ref\EnterpriseERP.Domain.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\Enterpri.95324074.Up2Date

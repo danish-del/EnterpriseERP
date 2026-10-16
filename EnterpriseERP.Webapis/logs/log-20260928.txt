@@ -1,0 +1,17 @@
+2026-09-28 06:55:52.577 -07:00 [INF] HTTP GET /swagger responded 301 in 12.8148 ms
+2026-09-28 06:55:52.887 -07:00 [INF] HTTP GET /swagger/index.html responded 200 in 190.6886 ms
+2026-09-28 06:55:52.952 -07:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 80.7122 ms
+2026-09-28 06:55:52.952 -07:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 80.7948 ms
+2026-09-28 06:55:52.993 -07:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 121.4574 ms
+2026-09-28 06:55:53.351 -07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 20.2606 ms
+2026-09-28 06:55:53.376 -07:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 0.7649 ms
+2026-09-28 06:56:05.660 -07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-09-28 06:56:05.670 -07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-09-28 06:56:05.875 -07:00 [INF] HTTP GET /api/Branch/Paged responded 200 in 3503.0654 ms
+2026-09-28 07:23:00.749 -07:00 [INF] HTTP GET /swagger responded 301 in 33.6059 ms
+2026-09-28 07:23:01.153 -07:00 [INF] HTTP GET /swagger/index.html responded 200 in 226.6422 ms
+2026-09-28 07:23:01.217 -07:00 [INF] HTTP GET /swagger/swagger-ui.css responded 200 in 34.8560 ms
+2026-09-28 07:23:01.231 -07:00 [INF] HTTP GET /swagger/swagger-ui-standalone-preset.js responded 200 in 49.7073 ms
+2026-09-28 07:23:01.245 -07:00 [INF] HTTP GET /swagger/swagger-ui-bundle.js responded 200 in 63.6611 ms
+2026-09-28 07:23:01.668 -07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 29.7197 ms
+2026-09-28 07:23:01.682 -07:00 [INF] HTTP GET /swagger/favicon-32x32.png responded 200 in 2.1566 ms

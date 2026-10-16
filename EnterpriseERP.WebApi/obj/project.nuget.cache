@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "stGWd4LUINI=",
+  "success": true,
+  "projectFilePath": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.WebApi\\EnterpriseERP.WebApi.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SIKANDER\\.nuget\\packages\\fsharp.core\\10.1.401\\fsharp.core.10.1.401.nupkg.sha512"
+  ],
+  "logs": []
+}

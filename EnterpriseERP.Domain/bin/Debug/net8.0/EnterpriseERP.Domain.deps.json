@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EnterpriseERP.Domain/1.0.0": {
+        "runtime": {
+          "EnterpriseERP.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnterpriseERP.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

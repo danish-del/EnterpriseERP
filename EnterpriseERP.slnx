@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="EnterpriseERP.Infrastructure.Test/EnterpriseERP.Infrastructure.Test.csproj" Id="747d0f59-5069-4b25-bc81-9b8a56c28cd5" />
+  </Folder>
+  <Project Path="EnterpriseERP.Application/EnterpriseERP.Application.csproj" />
+  <Project Path="EnterpriseERP.Domain/EnterpriseERP.Domain.csproj" />
+  <Project Path="EnterpriseERP.Insfrastructure/EnterpriseERP.Insfrastructure.csproj" />
+  <Project Path="EnterpriseERP.Webapis/EnterpriseERP.Webapi.csproj" Id="b66758e6-eab7-40ac-819e-1fed4e2fc01d" />
+  <Project Path="EnterpriseERP/EnterpriseERP.csproj" />
+</Solution>

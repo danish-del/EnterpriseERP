@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="EnterpriseERP.WebApi">
+    <resource name="FSharpSignatureData.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpOptimizationData.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.EnterpriseERP.WebApi" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.EnterpriseERP.WebApi" action="remove"></resource>
+  </assembly>
+</linker>
