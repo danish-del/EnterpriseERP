@@ -176,3 +176,4 @@ C:\Danish\EnterpriseERP\EnterpriseERP.Webapis\bin\Debug\net8.0\runtimes\browser\
 C:\Danish\EnterpriseERP\EnterpriseERP.Webapis\obj\Debug\net8.0\EnterpriseERP.Webapi.MvcApplicationPartsAssemblyInfo.cs
 C:\Danish\EnterpriseERP\EnterpriseERP.Webapis\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Danish\EnterpriseERP\EnterpriseERP.Webapis\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Webapis\obj\Debug\net8.0\EnterpriseERP.Webapi.sourcelink.json

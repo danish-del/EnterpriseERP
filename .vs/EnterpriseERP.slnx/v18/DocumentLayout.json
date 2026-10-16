@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Danish\\EnterpriseERP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|solutionrelative:enterpriseerp.insfrastructure\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B071BE5-2E31-300E-E00E-DEC1FCE12ABC}|EnterpriseERP.Insfrastructure\\EnterpriseERP.Insfrastructure.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.insfrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,10 +167,6 @@
       "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.webapis\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B66758E6-EAB7-40AC-819E-1FED4E2FC01D}|EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj|solutionrelative:enterpriseerp.webapis\\extensions\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|c:\\danish\\enterpriseerp\\enterpriseerp.application\\validators\\company\\updatecompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F8BC6DB-3674-18B4-BFD4-9FD66979C0A0}|EnterpriseERP.Application\\EnterpriseERP.Application.csproj|solutionrelative:enterpriseerp.application\\validators\\company\\updatecompanyvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -250,27 +250,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Program.cs",
-              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Program.cs",
-              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Program.cs",
-              "RelativeToolTip": "EnterpriseERP.Webapis\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T23:01:45.195Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\appsettings.json",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\appsettings.json",
@@ -282,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
@@ -290,8 +282,7 @@
               "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T11:08:31.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-24T11:08:31.502Z"
             },
             {
               "$type": "Document",
@@ -301,23 +292,46 @@
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
               "RelativeToolTip": "EnterpriseERP.Webapis\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAIwDUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwCgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T14:35:21.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T14:35:21.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:21:09.582Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
-              "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs",
-              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs*",
-              "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Identity\\AppUser.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T14:21:09.582Z",
+              "WhenOpened": "2026-09-25T14:00:55.389Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Program.cs",
+              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Program.cs",
+              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Program.cs",
+              "RelativeToolTip": "EnterpriseERP.Webapis\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T23:01:45.195Z"
             },
             {
               "$type": "Document",
@@ -333,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BranchServiceTest.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\Service\\BranchServiceTest.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\Service\\BranchServiceTest.cs",
@@ -345,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\JwtService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\JwtService.cs",
@@ -369,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Register\\RegisterDto.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Register\\RegisterDto.cs",
@@ -381,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Login\\LoginDto.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Login\\LoginDto.cs",
@@ -393,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DepartmentServiceTest.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\Service\\DepartmentServiceTest.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\Service\\DepartmentServiceTest.cs",
@@ -405,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EnterpriseERP.Infrastructure.Test.csproj",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
               "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
@@ -417,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BranchService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\BranchService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\BranchService.cs",
@@ -429,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Employee.cs",
@@ -441,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EnterpriseERP.Infrastructure.Test",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
               "RelativeDocumentMoniker": "EnterpriseERP.Infrastructure.Test\\EnterpriseERP.Infrastructure.Test.csproj",
@@ -452,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CompanyService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
@@ -460,12 +474,11 @@
               "RelativeToolTip": "EnterpriseERP.Insfrastructure\\Implementation\\CompanyService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:36:35.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T11:36:35.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
@@ -473,12 +486,11 @@
               "RelativeToolTip": "EnterpriseERP.Webapis\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAkwB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T12:23:34.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-30T12:23:34.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\GenericRepository.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\GenericRepository.cs",
@@ -490,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BranchController.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
@@ -498,12 +510,11 @@
               "RelativeToolTip": "EnterpriseERP.Webapis\\Controllers\\BranchController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-24T22:33:59.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-24T22:33:59.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ICompanyService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\ICompanyService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Service\\ICompanyService.cs",
@@ -515,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IBranchService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\IBranchService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Service\\IBranchService.cs",
@@ -527,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Service\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Service\\IDepartmentService.cs",
@@ -539,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Insfrastructure\\Implementation\\DepartmentService.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Insfrastructure\\Implementation\\DepartmentService.cs",
@@ -551,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Branch.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Branch.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Branch.cs",
@@ -563,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Interface\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Interface\\IGenericRepository.cs",
@@ -575,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Response\\ApiResponse.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Response\\ApiResponse.cs",
@@ -599,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UpdateDepartmentValidator.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Department\\UpdateDepartmentValidator.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Department\\UpdateDepartmentValidator.cs",
@@ -611,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CreateDepartmentValidator.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Department\\CreateDepartmentValidator.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Department\\CreateDepartmentValidator.cs",
@@ -623,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CreateBranchValidator.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Validators\\Branch\\CreateBranchValidator.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Validators\\Branch\\CreateBranchValidator.cs",
@@ -635,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Domain\\Model\\Department.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Domain\\Model\\Department.cs",
@@ -647,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "DepartmentProfile.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\DepartmentProfile.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Mapping\\DepartmentProfile.cs",
@@ -659,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "BranchProfile.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Mapping\\BranchProfile.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Mapping\\BranchProfile.cs",
@@ -671,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "UpdateDepartmentDto.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\UpdateDepartmentDto.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Department\\UpdateDepartmentDto.cs",
@@ -683,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ResponseDepartmentDto.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\ResponseDepartmentDto.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Department\\ResponseDepartmentDto.cs",
@@ -695,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "CreateDepartmentDto.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\DTO\\Department\\CreateDepartmentDto.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\DTO\\Department\\CreateDepartmentDto.cs",
@@ -707,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "EnterpriseERP.Webapi.csproj",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\EnterpriseERP.Webapi.csproj",
@@ -719,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\.dockerignore",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\.dockerignore",
@@ -731,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "PaginationParam.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Common\\Pagination\\PaginationParam.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Common\\Pagination\\PaginationParam.cs",
@@ -743,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "PagedResult.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Application\\Common\\Pagination\\PagedResult.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Application\\Common\\Pagination\\PagedResult.cs",
@@ -755,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "log-20260926.txt",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\logs\\log-20260926.txt",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\logs\\log-20260926.txt",
@@ -767,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Middleware\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Middleware\\GlobalExceptionHandler.cs",
@@ -776,18 +787,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAA7wAkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T13:52:38.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "MiddlewareExtensions.cs",
-              "DocumentMoniker": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
-              "ToolTip": "C:\\Danish\\EnterpriseERP\\EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
-              "RelativeToolTip": "EnterpriseERP.Webapis\\Extensions\\MiddlewareExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T14:00:55.389Z"
             },
             {
               "$type": "Document",

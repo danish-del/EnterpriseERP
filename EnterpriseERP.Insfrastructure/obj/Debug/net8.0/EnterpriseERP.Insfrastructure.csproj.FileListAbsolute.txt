@@ -17,3 +17,4 @@ C:\Danish\EnterpriseERP\EnterpriseERP.Insfrastructure\obj\Debug\net8.0\refint\En
 C:\Danish\EnterpriseERP\EnterpriseERP.Insfrastructure\obj\Debug\net8.0\EnterpriseERP.Insfrastructure.pdb
 C:\Danish\EnterpriseERP\EnterpriseERP.Insfrastructure\obj\Debug\net8.0\EnterpriseERP.Insfrastructure.genruntimeconfig.cache
 C:\Danish\EnterpriseERP\EnterpriseERP.Insfrastructure\obj\Debug\net8.0\ref\EnterpriseERP.Insfrastructure.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Insfrastructure\obj\Debug\net8.0\EnterpriseERP.Insfrastructure.sourcelink.json

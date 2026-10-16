@@ -34,3 +34,4 @@ C:\Danish\EnterpriseERP\EnterpriseERP\obj\Debug\net8.0\refint\EnterpriseERP.dll
 C:\Danish\EnterpriseERP\EnterpriseERP\obj\Debug\net8.0\EnterpriseERP.pdb
 C:\Danish\EnterpriseERP\EnterpriseERP\obj\Debug\net8.0\EnterpriseERP.genruntimeconfig.cache
 C:\Danish\EnterpriseERP\EnterpriseERP\obj\Debug\net8.0\ref\EnterpriseERP.dll
+C:\Danish\EnterpriseERP\EnterpriseERP\obj\Debug\net8.0\EnterpriseERP.sourcelink.json

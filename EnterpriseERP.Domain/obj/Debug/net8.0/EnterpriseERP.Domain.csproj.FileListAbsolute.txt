@@ -10,3 +10,4 @@ C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\refint\EnterpriseE
 C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.pdb
 C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\ref\EnterpriseERP.Domain.dll
 C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\Enterpri.95324074.Up2Date
+C:\Danish\EnterpriseERP\EnterpriseERP.Domain\obj\Debug\net8.0\EnterpriseERP.Domain.sourcelink.json

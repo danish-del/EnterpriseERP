@@ -13,3 +13,4 @@ C:\Danish\EnterpriseERP\EnterpriseERP.Application\obj\Debug\net8.0\EnterpriseERP
 C:\Danish\EnterpriseERP\EnterpriseERP.Application\obj\Debug\net8.0\refint\EnterpriseERP.Application.dll
 C:\Danish\EnterpriseERP\EnterpriseERP.Application\obj\Debug\net8.0\EnterpriseERP.Application.pdb
 C:\Danish\EnterpriseERP\EnterpriseERP.Application\obj\Debug\net8.0\ref\EnterpriseERP.Application.dll
+C:\Danish\EnterpriseERP\EnterpriseERP.Application\obj\Debug\net8.0\EnterpriseERP.Application.sourcelink.json
