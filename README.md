@@ -29,7 +29,9 @@ DTO Validation
 Separation of Concerns through Clean Architecture
 🏗️ Architecture
 The solution follows Clean Architecture principles, separating business logic from infrastructure and presentation concerns.
+#EnterpriseERP
 
+CI PipeLine Test Completed
 
 Layer	Responsibility
 Domain	Core business entities and domain logic
